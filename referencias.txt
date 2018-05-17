@@ -1,0 +1,35 @@
+# VÍDEOS
+
+https://www.youtube.com/watch?v=hoZov_-rh3U
+
+https://www.youtube.com/watch?v=MeqxcMEO4Ig
+
+# SOCKETS
+
+https://pt.wikipedia.org/wiki/TCP/IP
+
+https://www.inf.pucrs.br/~fldotti/redes/982/sockets.htm
+
+https://pt.wikibooks.org/wiki/Redes_de_computadores/Programa%C3%A7%C3%A3o_com_sockets
+
+https://blog.pantuza.com/artigos/o-que-sao-e-como-funcionam-os-sockets
+
+# Hypertext Transfer Protocol HTTP
+
+https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+
+https://pt.wikipedia.org/wiki/Lista_de_c%C3%B3digos_de_estado_HTTP
+
+Inglês
+
+https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+
+https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+
+https://en.wikipedia.org/wiki/SOAP
+
+# COMANDOS
+
+ curl http://site -i
+ curl http://site -i -o arquivo.txt
+ 
